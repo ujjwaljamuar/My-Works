@@ -1,0 +1,15 @@
+E:\VS\J Music Player\J Music Player\bin\Debug\J Music Player.exe.config
+E:\VS\J Music Player\J Music Player\bin\Debug\J Music Player.exe
+E:\VS\J Music Player\J Music Player\bin\Debug\J Music Player.pdb
+E:\VS\J Music Player\J Music Player\bin\Debug\Interop.WMPLib.dll
+E:\VS\J Music Player\J Music Player\bin\Debug\AxInterop.WMPLib.dll
+E:\VS\J Music Player\J Music Player\obj\Debug\Interop.WMPLib.dll
+E:\VS\J Music Player\J Music Player\obj\Debug\AxInterop.WMPLib.dll
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.csproj.ResolveComReference.cache
+E:\VS\J Music Player\J Music Player\obj\Debug\J_Music_Player.Form1.resources
+E:\VS\J Music Player\J Music Player\obj\Debug\J_Music_Player.Properties.Resources.resources
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.csproj.GenerateResource.cache
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.csproj.CoreCompileInputs.cache
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.exe
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.pdb
+E:\VS\J Music Player\J Music Player\obj\Debug\J Music Player.csprojAssemblyReference.cache

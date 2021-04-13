@@ -1,0 +1,28 @@
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+  background-color: bisque;
+}
+button {
+  width: 250px;
+  height: 80px;
+  background-color:lightcoral;
+  color: white;
+  font-family: MV Boli;
+  font-size: large;
+}
+p {
+  font-size: 35px;
+  color:crimson;
+  background-color: lightcyan;
+  font-family: Monotype Corsiva;
+  font-style: italic;
+}
+
+button:hover {
+  background-color:coral;
+}

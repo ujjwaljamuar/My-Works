@@ -1,0 +1,2 @@
+This is a simple Music Player for Windows .
+Built using Visual Studio 2019 using c#.

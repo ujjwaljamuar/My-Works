@@ -1,0 +1,10 @@
+E:\VS\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+E:\VS\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+E:\VS\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+E:\VS\Web Browser\Web Browser\obj\Debug\Web Browser.csprojAssemblyReference.cache
+E:\VS\Web Browser\Web Browser\obj\Debug\Web_Browser.frmMain.resources
+E:\VS\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+E:\VS\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+E:\VS\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+E:\VS\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+E:\VS\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
